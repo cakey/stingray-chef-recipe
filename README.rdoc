@@ -1,0 +1,3 @@
+= DESCRIPTION:
+
+This cookbook is used to install the stingray traffic manager, configure it, then join a cluster if necessary.

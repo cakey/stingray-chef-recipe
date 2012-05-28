@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+  },
+  "name": "stingray",
+  "maintainer_email": "bshaw@riverbed.com",
+  "attributes": {
+  },
+  "license": "Apache 2.0",
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "maintainer": "Riverbed",
+  "long_description": "= DESCRIPTION:\n\nThis cookbook is used to install the stingray traffic manager, and then configure it, joining a cluster if necessary.\n\n",
+  "version": "0.1.0",
+  "recommendations": {
+  },
+  "recipes": {
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "Used to install the stingray traffic manager, and then congiure it, joining a cluster if necessary.",
+  "providing": {
+  }
+}
